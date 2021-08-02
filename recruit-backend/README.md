@@ -8,4 +8,5 @@
     - update-database -context DatabaseContext
     - update-database -context ApplicationDbContext
     - You will need to create a user using Register User endpoint
-    - once user registered, use generated token to authenticate
+    - User will manually have to generate data in the system
+    - DataBase Seeding script & Integration Tests are missing, I will add get them if i get time today.
