@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ASB Poc/Demo.ASB.CreditCardStore.Application/obj
+/ASB Poc/Demo.ASB.CreditCardStore.Api/.vs/Demo.ASB.CreditCardStore
+/ASB Poc/Demo.ASB.CreditCardStore.Api/obj
+/ASB Poc/Demo.ASB.CreditCardStore.Contracts/obj
+/ASB Poc/Demo.ASB.CreditCardStore.Domain/obj
+/ASB Poc/Demo.ASB.CreditCardStore.InfraStructure/obj
+/ASB Poc/Demo.ASB.CreditCardStore.UnitTests/bin/Debug
+/ASB Poc/Demo.ASB.CreditCardStore.UnitTests/obj
+/ASB Poc/Demo.ASB.CreditCardStore.Api/bin/Debug/net6.0
+/ASB Poc/Demo.ASB.CreditCardStore.Application/bin/Debug/net6.0
+/ASB Poc/Demo.ASB.CreditCardStore.Contracts/bin/Debug/net6.0
+/ASB Poc/Demo.ASB.CreditCardStore.Domain/bin/Debug/net6.0
+/ASB Poc/Demo.ASB.CreditCardStore.InfraStructure/bin/Debug/net6.0
